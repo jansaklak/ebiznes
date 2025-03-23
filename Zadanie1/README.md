@@ -1,0 +1,3 @@
+# Obraz Ubuntu 24.02 z Pythonem, Java 8 oraz Kotlinem
+
+https://hub.docker.com/r/jansaklak/ubuntu-python-java-kotlin
