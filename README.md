@@ -12,3 +12,8 @@
 
 :white_check_mark: 3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane
 pobierane z listy (https://github.com/jansaklak/ebiznes/tree/main/Zadanie2)
+
+**Zadanie 3** Kotlin
+
+:white_check_mark: 3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor,
+która pozwala na przesyłanie wiadomości na platformę Discord (https://github.com/jansaklak/ebiznes/tree/main/Zadanie3)
