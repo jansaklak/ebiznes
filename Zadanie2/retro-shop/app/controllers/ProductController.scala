@@ -1,3 +1,4 @@
+// app/controllers/ProductsController.scala
 package controllers
 
 import models.Product
@@ -22,7 +23,7 @@ class ProductsController @Inject()(val controllerComponents: ControllerComponent
   
   private var idCounter: Long = products.map(_.id).max + 1
   
-  def create() = Action(parse.json) { request =>
+  def create(): Action[JsValue] = Action(parse.json) { request =>
     request.body.validate[Product].fold(
       errors => {
         BadRequest(Json.obj("message" -> JsError.toJson(errors)))
@@ -36,18 +37,18 @@ class ProductsController @Inject()(val controllerComponents: ControllerComponent
     )
   }
   
-  def list() = Action {
+  def list(): Action[AnyContent] = Action {
     Ok(Json.toJson(products))
   }
   
-  def get(id: Long) = Action {
+  def get(id: Long): Action[AnyContent] = Action {
     products.find(_.id == id) match {
       case Some(product) => Ok(Json.toJson(product))
       case None => NotFound(Json.obj("message" -> s"Product with id $id not found"))
     }
   }
   
-  def update(id: Long) = Action(parse.json) { request =>
+  def update(id: Long): Action[JsValue] = Action(parse.json) { request =>
     request.body.validate[Product].fold(
       errors => {
         BadRequest(Json.obj("message" -> JsError.toJson(errors)))
@@ -67,7 +68,7 @@ class ProductsController @Inject()(val controllerComponents: ControllerComponent
     )
   }
   
-  def delete(id: Long) = Action {
+  def delete(id: Long): Action[AnyContent] = Action {
     products.find(_.id == id) match {
       case Some(_) => 
         products = products.filterNot(_.id == id)

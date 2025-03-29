@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/conf/application.conf,/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/target/scala-3.3.0/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/conf/logback.xml,/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/target/scala-3.3.0/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/conf/messages,/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/target/scala-3.3.0/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/conf/routes,/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/target/scala-3.3.0/classes/routes)[0m

@@ -1,0 +1,36 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E051] Reference Error: /mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/app/controllers/ProductController.scala:26:17 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m26 |[0m  [33mdef[0m [36mcreate[0m() = Action(parse.json[[35mJsValue[0m]) { [36mrequest[0m =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mAmbiguous overload. The overloaded alternatives of [33mmethod[0m [35mapply[0m in [33mtrait[0m [35mActionBuilder[0m with types[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m (block: play.api.mvc.Request[A] => play.api.mvc.Result): play.api.mvc.Action[A][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m [A][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  (bodyParser: play.api.mvc.BodyParser[A]):[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    play.api.mvc.ActionBuilder[play.api.mvc.Request, A][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mboth match arguments (<?> => <?>)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E051] Reference Error: /mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/app/controllers/ProductController.scala:51:25 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m51 |[0m  [33mdef[0m [36mupdate[0m([36mid[0m: [35mLong[0m) = Action(parse.json[[35mJsValue[0m]) { [36mrequest[0m =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mAmbiguous overload. The overloaded alternatives of [33mmethod[0m [35mapply[0m in [33mtrait[0m [35mActionBuilder[0m with types[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m (block: play.api.mvc.Request[A] => play.api.mvc.Result): play.api.mvc.Action[A][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m [A][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  (bodyParser: play.api.mvc.BodyParser[A]):[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    play.api.mvc.ActionBuilder[play.api.mvc.Request, A][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mboth match arguments (<?> => <?>)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/conf/routes:8:1: Ambiguous given instances: both [33mmethod[0m [35mjavaWebSocket[0m in [33mobject[0m [35mHandlerInvokerFactory[0m and [33mmethod[0m [35mpassThrough[0m in [33mobject[0m [35mHandlerInvokerFactory[0m match type play.core.routing.HandlerInvokerFactory[T] of parameter hif of [33mmethod[0m [35mcreateInvoker[0m in [33mclass[0m [35mGeneratedRouter[0m[0m
+[0m[[0m[31merror[0m] [0m[0mPOST    /api/products              controllers.ProductsController.create()[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/d/Programy/EBiznes/EBiznesGit/ebiznes/Zadanie2/retro-shop/conf/routes:9:1: Ambiguous given instances: both [33mmethod[0m [35mjavaWebSocket[0m in [33mobject[0m [35mHandlerInvokerFactory[0m and [33mmethod[0m [35mpassThrough[0m in [33mobject[0m [35mHandlerInvokerFactory[0m match type play.core.routing.HandlerInvokerFactory[T] of parameter hif of [33mmethod[0m [35mcreateInvoker[0m in [33mclass[0m [35mGeneratedRouter[0m[0m
+[0m[[0m[31merror[0m] [0m[0mPUT     /api/products/:id          controllers.ProductsController.update(id: Long)[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
