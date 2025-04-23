@@ -20,3 +20,9 @@ która pozwala na przesyłanie wiadomości na platformę Discord (https://github
 
 https://github.com/user-attachments/assets/01b4a19f-c17b-478e-b76d-81819b163fbe
 
+**Zadanie 4** Echo go
+
+:white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD
+:white_check_mark: 3.5 Należy stworzyć model Produktów wykorzystując gorm oraz wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast listy)
+
+
