@@ -27,3 +27,7 @@ https://github.com/user-attachments/assets/01b4a19f-c17b-478e-b76d-81819b163fbe
 :white_check_mark: 3.5 Należy stworzyć model Produktów wykorzystując gorm oraz wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast listy)
 
 
+
+https://github.com/user-attachments/assets/3bc3318f-ab35-4cf4-a0e9-b39fd7076098
+
+
