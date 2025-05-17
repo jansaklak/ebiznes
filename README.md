@@ -64,3 +64,21 @@ w kodzie w Sonarze (kod aplikacji klienckiej)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=jansaklak_ebiznes&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=jansaklak_ebiznes)
 
 
+**Zadanie 8** Oauth2
+
+komunikacja: react-sewer-dostawca-serwer(via return
+uri)-react.
+
+:white_check_mark: 3.0 logowanie przez aplikację serwerową
+
+:white_check_mark:3.5 rejestracja przez aplikację serwerową
+
+:white_check_mark:4.0 logowanie via Google OAuth2
+
+
+
+https://github.com/user-attachments/assets/b78c035c-46c0-422e-9778-42dec93c966e
+
+
+
+
