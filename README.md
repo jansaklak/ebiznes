@@ -38,7 +38,22 @@ serwerowej;
 :white_check_mark: 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za
 pomocą React hooks
 
-https://github.com/user-attachments/assets/3bc3318f-ab35-4cf4-a0e9-b39fd7076098
+**Zadanie 6** Testy
+
+:white_check_mark: 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium
+(Kotlin, Python, Java, JS, Go, Scala)
+
+:white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50
+asercji
+
+:white_check_mark: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
+projektu (projekt z zadania 5) z minimum 50 asercjami
+
+
+
+https://github.com/user-attachments/assets/85f5120d-e0bb-4750-a270-95bfa5f679e0
+
+
 
 **Zadanie 7** Zapaszki Sonar JS
 
