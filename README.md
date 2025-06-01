@@ -81,9 +81,6 @@ https://github.com/user-attachments/assets/b78c035c-46c0-422e-9778-42dec93c966e
 
 **Zadanie 9** ChatGPT bot
 
-komunikacja: react-sewer-dostawca-serwer(via return
-uri)-react.
-
 :white_check_mark: 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z
 chatGPT do usługi chat
 
