@@ -79,6 +79,23 @@ uri)-react.
 
 https://github.com/user-attachments/assets/b78c035c-46c0-422e-9778-42dec93c966e
 
+**Zadanie 9** ChatGPT bot
+
+komunikacja: react-sewer-dostawca-serwer(via return
+uri)-react.
+
+:white_check_mark: 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z
+chatGPT do usługi chat
+
+:white_check_mark:3.5 należy stworzyć interfejs frontowy dla użytkownika, który
+komunikuje się z serwisem; odpowiedzi powinny być wysyałen do
+frontendowego interfejsu
+
+
+
+https://github.com/user-attachments/assets/ef876898-e2a0-439a-8f34-ebea81a6b408
+
+
 
 
 
