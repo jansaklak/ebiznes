@@ -107,6 +107,18 @@ frontendowego interfejsu
 
 https://github.com/user-attachments/assets/ef876898-e2a0-439a-8f34-ebea81a6b408
 
+**Zadanie 10** Chmura CI
+
+
+https://github.com/jansaklak/cloud_repo
+
+:white_check_mark: 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na
+dockerze
+
+
+https://github.com/user-attachments/assets/2ad51e5b-8f48-4f3d-9867-545d912b62be
+
+
 
 
 
